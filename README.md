@@ -2,7 +2,7 @@
 Simple Twitter Data Sentiment Analysis
 
 This is my simple project about sentimet analysis using python. The data is fetched from twitter with keyword PSBB. 
-Several library used to create the analysis include:
+Several libraries used to create the analysis include:
 1. Tweepy
 2. Pandas
 3. NLTK
