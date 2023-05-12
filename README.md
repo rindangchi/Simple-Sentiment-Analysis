@@ -1,4 +1,4 @@
-# Simple-Sentiment-Analysis
+<h1> 📰 Simple-Sentiment-Analysis </h1>
 Simple Twitter Data Sentiment Analysis
 
 This is my simple project about sentimet analysis using python. The data is fetched from twitter with keyword PSBB. 
