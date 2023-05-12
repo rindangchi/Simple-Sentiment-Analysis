@@ -5,11 +5,11 @@ During covid pandemic government implemented some policies to restrict community
 To understand people perespective in responding a regulation we can analyze data from social media platform, one social media platform that widely used to express people opinion is twitter. Using twitter data I will analyze people's sentiment about PSBB regulation. By understanding society's sentiment government can make a better decision in the future. 
 
 ## Dataset
-Data fetched from twitter using beautifulsoup scraping with kwyeord PSBB.
+Data fetched from twitter using twitter API, scraping with kwyeord PSBB.
 
 ## Technologies
 Python, SQLite. 
-The python libraries used is below: 
+Python libraries used: 
 1. Tweepy
 2. Pandas
 3. NLTK
@@ -20,4 +20,9 @@ The python libraries used is below:
 8. Seaborn
 
 ## Steps
+1. Fetch data from twitter using twitter API
+2. Clean tweet data to get the ready use data for analysis
+3. Data visualization and sentiment analysis using python
+4. Save data in .sql format
+
 
