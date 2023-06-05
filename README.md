@@ -3,6 +3,7 @@
 ## Background
 During covid pandemic government implemented some policies to restrict community movement. In Indonesia government implemented a policy called PSBB between 2020-2021. Same with other regulations, every new regulation always get various responds from society, some people maybe agree with the new regulation but the others may be disagree with it. 
 To understand people perespective in responding a regulation we can analyze data from social media platform, one social media platform that widely used to express people opinion is twitter. Using twitter data I will analyze people's sentiment about PSBB regulation. By understanding society's sentiment government can make a better decision in the future. 
+The full code can be seen here [Sentiment Analysis](https://github.com/rindangchi/Simple-Sentiment-Analysis/blob/main/Simple_Sentiment_Analysis%20(1).ipynb)
 
 ## Dataset
 Data fetched from twitter using twitter API, scraping with kwyeord PSBB.
